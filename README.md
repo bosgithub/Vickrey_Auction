@@ -5,6 +5,9 @@
 
 
 #### Vickrey Auction Method:
+Also known as second price auction. It is precisely what it sounds like, everyone bid their bid on the good, the winner pays the second highest bid instead of their own bid.
+
+This method allow the bidders to bid their true value on the good without much reasoning as this is the dominant strategy. 
 
 
 
