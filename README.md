@@ -3,11 +3,14 @@
 
 #### The idea is we want to facilitate a transaction on the good to the person who values it the most.
 
+---
 
 ### Now, let's talk about Vickrey Auction Method:
 Also known as second price auction. It is precisely what it sounds like, everyone bid their bid on the good, the winner pays the second highest bid instead of their own bid.
 
 This method allow the bidders to bid their true value on the good without much reasoning as this is the dominant strategy. 
+
+---
 
 _here is an example:_
 
