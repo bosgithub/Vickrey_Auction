@@ -19,7 +19,7 @@ This method allow the bidders to bid their true value on the good without much r
 
 _here is an example:_
 
-say, we have a condo for sell, we know the neighbours who have similar properties recently sold theirs for around 750k. We allow people to bid via the method of Vickrey Auction.
+say, we have a condo for sell, we know the neighbours who recently sold similar properties for around 750k, we let this be the private valuation of our condo. We allow people to bid via the method of Vickrey Auction.
 
 
 | Bidders       | Price         | 
@@ -30,7 +30,9 @@ say, we have a condo for sell, we know the neighbours who have similar propertie
 | Max           | 740k          |  
 
 
-4 bidders, we see Cindy with an offer of 800k wins this auction, but because we are in a Vickrey auction, she pays the second highest bid, which is 760k, what Lisa bid. Saving her 40k from her true value of 800k, everyone is happy. 
+4 bidders, we see John, Lisa, Max all lost, they didn't win the property and they didn't pay anything.
+
+Cindy with an offer of 800k wins this auction, but because we are in a Vickrey auction, she pays the second highest bid, which is 760k, what Lisa bid. Saving her 40k from her true value of 800k, us as the seller is willing to sell for 750k but because of this method, we can get extra 10k, everyone is happy. 
 
 
 
