@@ -9,7 +9,7 @@ Also known as second price auction. It is precisely what it sounds like, everyon
 
 This method allow the bidders to bid their true value on the good without much reasoning as this is the dominant strategy. 
 
-here is an example:
+_here is an example:_
 
 say, we have a condo for sell, we know the neighbours who also have similar properties recently sold theirs for around 750k. We allow people to bid via the method of Vickrey Auction.
 
