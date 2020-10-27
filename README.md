@@ -30,7 +30,7 @@ say, we have a condo for sell, we know the neighbours who have similar propertie
 | Max           | 740k          |  
 
 
-4 bidders, we see Cindy with an offer of 800k wins this auction, but because we are in a Vickrey auction, she pays the second highest bid, which is 750k, what Lisa bid. Saving her 50k from her true value of 800k, everyone is happy. 
+4 bidders, we see Cindy with an offer of 800k wins this auction, but because we are in a Vickrey auction, she pays the second highest bid, which is 760k, what Lisa bid. Saving her 40k from her true value of 800k, everyone is happy. 
 
 
 
